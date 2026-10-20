@@ -1,0 +1,19 @@
+# AlohaTax
+- [x] Keep package enquiry forms to Name, Phone and Email; verify selected package in WhatsApp.
+- [x] Use alohaTax throughout, add Proprietorship, and explain GST LUT in plain language.
+- [x] Remove the copyright line and make Basic / Standard / Premium selectable with enquiry handoff.
+- [x] Review all services’ three-tier fees using available Indian public-price comparisons and scope-based estimates, label suggested rates, preserve suitable existing fees and verify the complete flow.
+- [x] Change consultation and enquiry forms to prefilled WhatsApp requests and verify all submitted details.
+- [x] Add the seven supplied client companies beside the track record without inventing testimonial quotes; verify the displayed names.
+- [x] Provide positive testimonial drafts clearly labelled for client approval; do not publish invented quotes as real endorsements.
+- [x] Display all seven testimonial drafts now confirmed by the user as client-approved and reflective of their experience; verify the home-page section.
+- [x] Improve every package’s service-specific details; add three relevant services with suggested prices and verify package selection and discovery.
+- [x] Fix failing SEO findings: remove placeholder endorsements, remove root page metadata, and install a public sitemap referenced in robots.txt; verify and update findings.
+- [x] Bright branded website, services dropdown and beginner-friendly service detail pages.
+- [x] Story, Why Us, contact and seven office locations.
+- [x] Actual figures and linked social icons; endorsement sections omitted until approved reviews/partners are supplied.
+- [x] Single-session AI assistant, required package imports, and live reply verification.
+- [x] Separate GST and income tax service groups; show Basic, Standard, and Premium packages on each service page.
+- [x] Add the supplied Basic, Standard, and Premium rates across all 22 catalogue services.
+- [x] Replace email-draft handoff with visitor-sent WhatsApp requests; automatic email delivery is no longer requested.
+- [x] Keep only Name, Phone and Email in Book a consultation, preserving WhatsApp handoff and service enquiry fields.
